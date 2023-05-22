@@ -1,0 +1,211 @@
+<html lang="en">
+
+ <head> 
+
+  <meta charset="UTF-8"> 
+
+  <title>Fantastic CEBY Adventures</title> 
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+  <style>
+
+        body {
+
+            font-family: Arial, Helvetica, sans-serif;
+
+            margin: 0;
+
+            padding: 0;
+
+            background-color: #f5f5f5;
+
+        }
+
+        .container {
+
+            max-width: 1024px;
+
+            margin: 0 auto;
+
+            padding: 20px;
+
+        }
+
+        .message-list {
+
+            display: flex;
+
+            flex-wrap: wrap;
+
+            justify-content: space-between;
+
+        }
+
+        .message-item {
+
+            width: 100%;
+
+            margin-bottom: 20px;
+
+            padding: 20px;
+
+            background-color: #fff;
+
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+
+            border-radius: 10px;
+
+            transition: all 0.3s ease-out;
+
+        }
+
+        .message-item:hover {
+
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+            transform: translateY(-5px);
+
+        }
+
+        .message-item h3 {
+
+            margin-top: 0;
+
+            color: #333;
+
+            font-size: 24px;
+
+            font-weight: bold;
+
+        }
+
+        .message-item span {
+
+            display: block;
+
+            margin-top: 10px;
+
+            color: #666;
+
+        }
+
+        .message-item p {
+
+            margin-top: 20px;
+
+            color: #777;
+
+            line-height: 1.5;
+
+        }
+
+        @media (min-width: 768px) {
+
+            .message-item {
+
+                width: calc(50% - 10px);
+
+            }
+
+        }
+
+        @media (min-width: 1024px) {
+
+            .message-item {
+
+                width: calc(33.33% - 10px);
+
+            }
+
+        }
+
+    </style> 
+
+  <script src="js/jq.js"></script> 
+
+ </head> 
+
+ <body id="v1"> 
+
+  <div id="v2" class="container"> 
+
+   <h1 id="v3" style="text-align: center; margin-bottom: 30px;">Fantastic CEBY Adventures</h1> 
+
+   <div id="v4" class="message-list"> 
+
+    <div id="v5" class="message-item"> 
+
+     <h3 id="v6">公告</h3> 
+
+     <span id="v7">2023-05-15 2:29:56</span> 
+
+     <p id="v8">你现在正在CEBY's Blocky World官网中</p> 
+
+     <p>暂无更新(QQ群聊442145973)</p>
+
+    </div> 
+
+    <div id="v9" class="message-item"> 
+
+     <h3 id="v10">开发者分享</h3> 
+
+     <span id="v11">2023-05-15 2:29:56</span> 
+
+     <p id="v12">欢迎你的加入</p> 
+
+     <a id="v13" href="https://b23.tv/rid1xQk">BAIYU开发者哔哩哔哩</a> 
+
+     <br><a href="https://klpbbs.com/home.php?mod=space&uid=481280&do=profile">BAIYU开发者苦力怕论坛</a>
+
+    </div> 
+
+    <div id="v14" class="message-item"> 
+
+     <h3 id="v15">文件下载栏</h3> 
+
+     <span id="v16">2023-05-15 2:29:56</span> 
+
+     <p id="v17">无(暂时)</p> 
+
+    </div> 
+
+    <div id="v18" class="message-item"> 
+
+     <h3 id="v19">留言标题</h3> 
+
+     <span id="v20">2023-05-15 2:29:56</span> 
+
+     <p id="v21">祝你们玩儿的开心</p> 
+
+    </div> 
+
+    <div id="v22" class="message-item"> 
+
+     <h3 id="v23">网站简介</h3> 
+
+     <span id="v24">2023-05-15 2:29:56</span> 
+
+     <p id="v25">欢迎来到Fantastic CEBY Adventures网站！ 我是一个Minecraft玩家，热爱分享我的游戏经验和创造。这个网站是我用来记录我的游戏历程和分享我的创意的地方。 在我的网站上，你可以找到各种有关Minecraft的信息，包括游戏攻略，建筑教程，及其他有趣的内容。我也欢迎你与我一起分享你的游戏经验和创意。 如果你是一个Minecraft迷，或者对创意分享感兴趣，那么我的网站是一个绝佳的去处。我希望这里能成为我们一起交流、学习和成长的乐园。 欢迎来访，我们一起探索Minecraft的奥秘！</p> 
+
+    </div> 
+
+   <div class="message-item">
+
+     <h3>网页开发者名单</h3>
+
+     <span>2023-05-15 2:29:56</span>
+
+     <p>CitifiedEagle2</p>
+
+     <p>BAIYU</p>
+
+    </div>
+
+   </div> 
+
+  </div>  
+
+ </body>
+
+</html>
